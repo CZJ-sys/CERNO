@@ -1,4 +1,4 @@
-# DRESO
+# CERNO
 
 **CERNO: Complementary Evidence Routing for Robust Autoregressive Neural Operators**
 
