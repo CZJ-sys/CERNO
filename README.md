@@ -1,8 +1,8 @@
 # DRESO
 
-**DRESO: Evidence-Guided Dual-Region Spectral Operators for Long-Horizon PDE Forecasting**
+**CERNO: Complementary Evidence Routing for Robust Autoregressive Neural Operators**
 
-This repository is the clean reproduction version of DRESO. It includes the
+This repository is the clean reproduction version of CERNO. It includes the
 model, training and evaluation on Poseidon and The Well, and diagnostic
 visualizations of gate features and learned filter cutoffs. All training uses
 single-frame inputs.
