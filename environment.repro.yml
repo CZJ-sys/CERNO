@@ -1,4 +1,4 @@
-name: dreso
+name: cerno
 channels:
   - conda-forge
 dependencies:
