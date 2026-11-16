@@ -2,7 +2,7 @@
 set -euo pipefail
 
 REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-ENV_NAME="${ENV_NAME:-dreso}"
+ENV_NAME="${ENV_NAME:-cerno}"
 
 conda env create --name "${ENV_NAME}" --file "${REPO_ROOT}/environment.repro.yml"
 conda run --name "${ENV_NAME}" python -m pip install --upgrade pip
